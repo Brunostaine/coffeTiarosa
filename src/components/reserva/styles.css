@@ -1,0 +1,50 @@
+.container-reserve {}
+
+.title-reserva {
+    font-family: 'Satisfy', cursive;
+    font-size: 48px;
+    text-align: center;
+}
+
+.tabela {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+.img-reserva {
+    width: 350px;
+}
+
+
+.input-item{
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    
+}
+
+.inputText {
+    
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    color: #7b7b7b;
+  }
+
+  .input-item-button  {
+    text-align: center;
+  }
+
+
+
+
+
+
+
+
+

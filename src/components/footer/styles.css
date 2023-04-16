@@ -1,0 +1,23 @@
+.container-footer{
+    padding: 16px;
+    text-align: center;
+    
+}
+
+.img-footer{
+    margin-left: 16px;
+    width: 250px;
+}
+
+.item-media{
+    margin-right: 8px;
+    color: #f1e0bd
+}
+
+
+.descriptions-footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

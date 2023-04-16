@@ -26,11 +26,18 @@
 .item {
     display: flex;
     flex-direction: column;
-    align-items: center;
     justify-content: center;
+    align-items: center;
+    margin-right: 16px;
+    background: #947e56;
 }
 
 .img-service {
     width: 250px;
     height: auto;
+    
+}
+
+.item p {
+    color: #222;
 }

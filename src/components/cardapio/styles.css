@@ -1,0 +1,23 @@
+.container-cardapio{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 16px;
+}
+
+.img-cardapio {
+    width: 400px;
+    height: auto;
+}
+
+.text-price{
+    font-size: 22px;
+    font-family: 'Satisfy', cursive;
+    
+}
+
+.text-description{
+    font-size: 40px;
+    font-family: 'Satisfy', cursive;
+    margin-left: 16px;
+}

@@ -1,9 +1,8 @@
-import "./styles.css"
 import Cafe from '../../assets/images/cafe.png';
 import Maquina from '../../assets/images/maquina.png';
 import Sonho from '../../assets/images/sonho.png';
+import "./styles.css";
 
-import { FaCoffee } from "react-icons/fa";
 
 
 export default function Services() {

@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.container-menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-menu li {
+    margin-right: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+
+a {
+    padding: 10px;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+a:hover {
+    background-color: #f1e0bd;
+    color: #947e56;
+}

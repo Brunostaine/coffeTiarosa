@@ -1,5 +1,9 @@
 import "./styles.css"
-import ImageCoffee from '../../assets/images/Cup1.png';
+import Cafe from '../../assets/images/cafe.png';
+import Maquina from '../../assets/images/maquina.png';
+import Sonho from '../../assets/images/sonho.png';
+
+import { FaCoffee } from "react-icons/fa";
 
 
 export default function Services() {
@@ -11,15 +15,15 @@ export default function Services() {
 
                 <div className="card-service">
                     <div className="item">
-                        <img src={ImageCoffee} alt="Menu" className="img-service" />
+                        <img src={Cafe} alt="Menu" className="img-service" />
                         <p>Café</p>
                     </div>
                     <div className="item">
-                        <img src={ImageCoffee} alt="Menu" className="img-service" />
+                        <img src={Maquina} alt="Menu" className="img-service" />
                         <p>Internet</p>
                     </div>
                     <div className="item">
-                        <img src={ImageCoffee} alt="Menu" className="img-service" />
+                        <img src={Sonho} alt="Menu" className="img-service" />
                         <p>Sonhos</p>
                     </div>
                 </div>

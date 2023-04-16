@@ -30,12 +30,12 @@
     align-items: center;
     margin-right: 16px;
     background: #947e56;
+    padding: 32px;
+    
 }
 
 .img-service {
-    width: 250px;
-    height: auto;
-    
+    width: 90px;    
 }
 
 .item p {
